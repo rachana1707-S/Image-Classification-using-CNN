@@ -62,6 +62,7 @@ python train.py
    ```
 
    ## Project Structure
+```bash
 Image-Classification-using-CNN/
 ├── data/                  # Dataset folders (train/test)
 ├── models/                # Saved trained models
@@ -70,6 +71,8 @@ Image-Classification-using-CNN/
 ├── requirements.txt       # Python dependencies
 ├── README.md              # Project documentation
 └── .gitignore             # Git ignore rules
+
+```
 
 
 ## Results
